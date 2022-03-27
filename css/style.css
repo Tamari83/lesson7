@@ -1,0 +1,23 @@
+.container{
+	width: 1420px;
+	margin: 0 auto;
+	display: flex;
+
+}
+.logo{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	margin-top:87px;
+
+}
+
+.menu_ul{
+	width: 581px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color: #3D37F1;
+	font-size: 20px;
+	font-weight: bold;
+}
